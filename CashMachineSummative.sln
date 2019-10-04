@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashMachineSummative", "CashMachineSummative\CashMachineSummative.csproj", "{59CE89D5-C89E-41DD-B891-B78A4DF74CA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59CE89D5-C89E-41DD-B891-B78A4DF74CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59CE89D5-C89E-41DD-B891-B78A4DF74CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59CE89D5-C89E-41DD-B891-B78A4DF74CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59CE89D5-C89E-41DD-B891-B78A4DF74CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA0679E0-0345-4490-9C05-4950DF3AD128}
+	EndGlobalSection
+EndGlobal
